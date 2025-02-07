@@ -4,7 +4,7 @@
 Este es un proyecto de práctica para aprender Git y GitHub de Programación1
 
 
-- *Integrantes*: Mildred Pineda y Antony Pineda
+- *Integrantes*: Mildred Pineda  y Antony Ezequiel
 
 ## Lo que he aprendido sobre Git:
 
@@ -41,7 +41,7 @@ Usar Git en programación es como tener una red de seguridad. Puedes hacer
  a una versión anterior. Además, cuando trabajas con otras personas, Git 
  ayuda a que cada quien haga su parte sin pisarse el trabajo del otro, lo 
  cual es súper útil.
-=======
+
 - **Integrantes**: Mildred Pineda y Antony Pineda
 
 ## Lo que he aprendido sobre Git:
