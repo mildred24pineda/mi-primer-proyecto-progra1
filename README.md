@@ -58,5 +58,4 @@ Usar Git en programación es como tener una red de seguridad. Puedes hacer
 
 - Visual Studio Code
 
-- Visual Studio Code
 
