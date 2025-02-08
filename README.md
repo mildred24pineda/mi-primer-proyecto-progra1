@@ -22,7 +22,7 @@ Este es un trabajo de práctica diseñado para mejorar mis habilidades en Git y 
 2. *¿Cómo fue la experiencia de trabajar en parejas? ¿Encontraste algún conflicto? 
 ¿Cómo lo resolviste?*
 
-    experiencia en pareja fue enriquecedora, ya que pudimos compartir conocimientos y apoyarnos en momentos de duda. Aunque no enfrentamos grandes inconvenientes, notamos que era fundamental una comunicación clara para evitar errores o confusiones. Mantenernos en sintonía fue clave para que el trabajo fluyera sin dificultades.
+    Experiencia en pareja fue enriquecedora, ya que pudimos compartir conocimientos y apoyarnos en momentos de duda. Aunque no enfrentamos grandes inconvenientes, notamos que era fundamental una comunicación clara para evitar errores o confusiones. Mantenernos en sintonía fue clave para que el trabajo fluyera sin dificultades.
 
 3. ¿Qué ventajas crees que tiene usar Git en proyectos de programación?
 
